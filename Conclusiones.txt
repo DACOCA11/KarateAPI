@@ -1,0 +1,15 @@
+Conclusiones:
+
+-Cuando se abre https://api.demoblaze.com/signup en un browser directamente me sale
+un error de "Method Not Allowed", por tanto no se puede ver el contenido "json" de
+la Api. Este error se encuentra en cualquier browser que se requiera abrir
+
+
+-Cuando se realiza el registro de usuario nuevo en la api a veces sale un error que
+indica que el usuario ya existe, además de que no se puede acceder al contenido "json"
+para verificar.
+
+-Cuando se realiza el correcto ingreso de usuario y contraseña, por lo general sale un error
+de contraseña incorrecta pese a que se ha registrado ya ese usuario correctamente.
+
+-La Api por lo general pierde conexión con las base de datos de usuarios.
